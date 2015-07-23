@@ -56,7 +56,7 @@ img{
 	width: 70px;
 	height: 40px;
 	text-align: center;
-	background: #0096be;
+	background: #F06E3A;
 	color: white;
 	font-size: 17px;
 	border-radius: 4px;
@@ -74,7 +74,7 @@ img{
 }
 
 .box-form input[type="submit"]:hover, .box-form input[type="submit"]:focus{
-	background: #0188A0;
+	background: #EEC144;
 }
 
 .section-footer{
